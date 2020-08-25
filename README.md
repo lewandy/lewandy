@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lewandy
 #### I'am software engineer | Tech enthusiast
-![I'am software engineer | Tech enthusiast](https://lh3.googleusercontent.com/YadWxh_Y3zcQevzw4_KVHktLSM264QbDjp1TbaryppwC5-cPbjsihAeyZ20dD4tnbEFxDsnVwMFWV1FkBuBSknNZhbGX1zF6B4H8m4UICuCqtfTgO4c0yR-L6ooByDQx6AV_TJ7XB0VMAkEDQxj8uiRakQe9DfbFcojyG31pPJhYVkksj7UetOc5IjlfWFyYS7Q_i55Goe3ui8yGPzFYjVcD7As1RXecSq1pAJJaAHGIBuEKa2vGKsBDLBFkDUncvVE4ADDaHXa1r7ZMiMZGWzRgAcdOskEgualRBVzIpxnvt8ddeEgcnQNnJ61Yfo8qcqHVB_TzLtRginpGRivgFIqKqO51Q4k1n-SGyhpYQ4KyhyUa7bpeKp1ls5pJvv0iNVtypiGRxw3u7DmyJlj9INQUnVR1KKLA4pwmKxdabL1ltvW1mI1VnHtYmPrv7m11PfUT41vosUa_dU-_jHSh0XtwUjl6kfBNvPolRWYe6FYfIw1UpE-2-ECiuI1oitzXhS-Ee0LV5TFzVyE6w70VI2snQqLqYILeObBvSZLuRmGJGc8doO2iT3f4RLxoxDyJXjlf9udWRYzDpupYsKz1pJYpvEB2f-rN-u4brrvpCh05qICjKwUq90bRxB096HcEn8tjP_YZJgq18rIxWYA0lpJFhxfVs3bRxStPmN8X2usvvNROlR0DwZjUzo8Rpg=w1139-h640-no?authuser=0)
+![I'am software engineer | Tech enthusiast]
 
 I love computer science and make impact developing software for help to people have more easy life.
 
