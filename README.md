@@ -3,10 +3,10 @@
 
 I love computer science and make impact developing software for help to people have more easy life.
 
-Skills: VUE JS / NODEJS / JS / HTML / CSS / LARAVEL
+Skills: VUE JS / REACT / NODEJS / JS / HTML / CSS / DOCKER
 
 - 🔭 I’m currently working on @Farmatrix 
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning React Native
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lewandy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lewandy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lewandydilone)  
