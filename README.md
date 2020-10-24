@@ -1,7 +1,5 @@
 #### I'am software engineer | Tech enthusiast
 
-I love computer science and make impact developing software for help to people have more easy life.
-
 Skills: VUE JS / REACT / NODEJS / JS / HTML / CSS / DOCKER / LARAVEL
 
 - 🔭 I’m currently working on @Farmatrix 
