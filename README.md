@@ -2,5 +2,7 @@
 
 Skills: VUE JS / REACT / NODEJS / JS / HTML / CSS / DOCKER / LARAVEL
 
-- 🔭 I’m currently working on @Farmatrix 
-- 🌱 I’m currently learning React Native
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lewandy)
+
+
+
