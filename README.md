@@ -1,7 +1,7 @@
 ## Bienvenido a mi portafolio! 😁
 
 - 🤖 Software Engineer 
-- 📚 Learning Javascript fundamentals and ReactJs
+- 📚 Learning Javascript deep fundamentals and ReactJs
 - 👔 Working on Farmatrix S.A.S 💉💊🩹
 - 🧠 Ask me about Javascript, Vue or Laravel
 -  🔋 I play basketball 🏀 and Call of Duty Moderm Warfare 🔫
