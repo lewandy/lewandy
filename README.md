@@ -1,6 +1,25 @@
-##Lewandy Dilone 🏀 🎮 🎵
+## Bienvenido a mi portafolio! 😁
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lewandy)
+- 🤖 Software Engineer 
+- 📚 Learning Javascript fundamentals and ReactJs
+- 👔 Working on Farmatrix S.A.S 💉💊🩹
+- 🧠 Ask me about Javascript, Vue or Laravel
+-  🔋 I play basketball 🏀 and Call of Duty Moderm Warfare 🔫
 
+<p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
 
+---
 
+![Lewandy Stars](https://github-readme-stats.vercel.app/api?username=lewandy&show_icons=true&theme=radical)
+
+#### Social
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/lewandydilone)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lewandy/)
