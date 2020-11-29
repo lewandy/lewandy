@@ -4,7 +4,7 @@
 - 📚 Learning Javascript deep fundamentals and ReactJs
 - 👔 Working on Farmatrix S.A.S 💉💊🩹
 - 🧠 Ask me about Javascript, Vue or Laravel
--  🔋 I play basketball 🏀 and Call of Duty Moderm Warfare 🔫
+-  🔋 I play basketball 🏀 and Call of Duty Moderm Warfare 🔫🕹
 
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
