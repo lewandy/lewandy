@@ -2,7 +2,7 @@
 
 - 🤖 Software Engineer 
 - 📚 Learning Javascript deep fundamentals and ReactJs
-- 👔 Working on Farmatrix S.A.S 💉💊🩹
+- 👔 Working on Net Tech International/Synetek Solutions 💉💊🩹
 - 🧠 Ask me about Javascript, Vue or Laravel
 -  🔋 I play basketball 🏀 and Call of Duty Warzone 🔫🕹
 
