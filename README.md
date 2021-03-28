@@ -2,7 +2,6 @@
 
 - 🤖 Software Engineer 
 - 📚 Learning Javascript deep fundamentals and ReactJs
-- 👔 Working on Synetek Solutions.
 - 🧠 Ask me about Javascript, Vue or Laravel
 -  🔋 I play basketball 🏀 and Call of Duty Warzone 🔫🕹
 
