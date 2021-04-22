@@ -1,11 +1,7 @@
-## Front End Developer! 
+## Lewandy Diloné 😁
 
 - 🤖 Software Engineer 
-- 📚 Learning Javascript deep fundamentals and ReactJs
 - 🧠 Ask me about Javascript, Vue or Laravel
--  🔋 I play basketball 🏀 and Call of Duty Warzone 🔫🕹
-
-Member of @VueDominicana
 
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
