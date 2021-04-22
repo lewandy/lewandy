@@ -1,4 +1,4 @@
-## Bienvenido a mi portafolio! 😁
+## Front End Developer! 
 
 - 🤖 Software Engineer 
 - 📚 Learning Javascript deep fundamentals and ReactJs
