@@ -1,7 +1,7 @@
 Hello everybody
 
 I'm a Full Stack developer working from Dominican Republic 🇩🇴.
-- 💻 Senior Software Engineer at [Xteam](https://acid.cl/).
+- 💻 Senior Software Engineer at [Xteam](https://x-team.com/).
 - 💬 Ask me about: Vue, React and node technologies.
 
 <p>
