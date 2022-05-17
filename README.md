@@ -1,7 +1,7 @@
 Hello everybody
 
 I'm a Full Stack developer working from Dominican Republic 🇩🇴.
-- 💻 Software Engineer at [AcidLabs](https://acid.cl/) — working on [Sky Airline](https://www.skyairline.com).
+- 💻 Senior Software Engineer at [Xteam](https://acid.cl/).
 - 💬 Ask me about: Vue, React and node technologies.
 
 <p>
