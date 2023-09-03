@@ -2,7 +2,7 @@ Hello everybody
 
 I'm a Full Stack developer working from Dominican Republic 🇩🇴.
 - 💻 Senior Software Engineer at [Xteam](https://x-team.com/).
-- 💬 Ask me about: Vue, React and node technologies.
+- 💬 Ask me about: Vue, React and node/PHP technologies.
 
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
